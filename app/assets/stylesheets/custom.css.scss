@@ -183,3 +183,20 @@ input {
     @extend .is-invalid;
   }
 }
+
+/* users index */
+
+.users {
+  list-style: none;
+  margin: 0;
+  li {
+    overflow: auto;
+    padding: 10px 0;
+    border-top: 1px solid ;
+    border-top-color:lightgray;
+    &:last-child {
+      border-bottom: 1px solid;
+      border-bottom-color:lightgray;
+    }
+  }
+}
