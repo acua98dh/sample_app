@@ -11,6 +11,8 @@ gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.6.4'
 gem 'devise',       '4.4.3'
 gem 'faker',        '1.8.7'
+gem 'carrierwave',  '1.2.2'
+gem 'mini_magick',  '4.8.0'
 
 gem 'sprockets'
 gem 'will_paginate'

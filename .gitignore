@@ -21,3 +21,10 @@
 /yarn-error.log
 
 .byebug_history
+
+
+# test task
+ToDo.md
+
+# Ignore uploaded test images.
+/public/uploads
